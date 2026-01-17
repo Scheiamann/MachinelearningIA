@@ -43,3 +43,10 @@ Este projeto consiste no desenvolvimento de um modelo de Machine Learning para i
 ## 🚀 Conclusão
 
 Este projeto demonstra a aplicação prática de Inteligência Artificial e Machine Learning para análise de perfil de clientes, utilizando dados reais para gerar previsões confiáveis.
+
+---
+
+📬 **Contato**  
+Caso queira saber mais sobre os projetos ou trocar experiências, fique à vontade para entrar em contato.
+
+LinkedIN: https://www.linkedin.com/in/rafael-scheimann-da-rosa-12a030382/
